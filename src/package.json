@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16",
+    "react-dom": "^16",
+    "react-window": "^1"
+  },
+  "keywords": [],
+  "name": "react-window"
+}
